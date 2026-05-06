@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(go version *)",
+      "Bash(gh --version)",
+      "WebFetch(domain:docs.github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(gh api *)",
+      "Bash(go mod *)",
+      "Bash(go build *)"
+    ]
+  }
+}
